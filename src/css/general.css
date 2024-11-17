@@ -1,0 +1,11 @@
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  margin-block: 25px;
+  margin-inline: 30px;
+}
+
+body {
+  padding: 50px;
+  background-color: rgb(225, 248, 223);
+}

@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+  margin: 25px 25px;
+  font-style: italic;
+  color: rgb(15, 15, 112);
+}
+
+td {
+  padding-block: 30px;
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+tr:nth-child(odd)>td {
+  background-color: rgb(184, 202, 182);;
+}
+
+td {
+  padding-inline: 10px;
+  text-align: justify;
+}
+
+th {
+  font-size: larger;
+  padding-inline: 10px;
+  padding-block: 15px;
+  border: 1px solid black;
+}
